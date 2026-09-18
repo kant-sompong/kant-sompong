@@ -14,4 +14,4 @@ Backend developer in progress — focused on building real, working systems, not
 Shipping real projects, understanding systems deeply, and writing code that scales.
 
 ## Find me
-- Portfolio: coming soon
+Portfolio: coming soon
