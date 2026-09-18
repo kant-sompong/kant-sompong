@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hey, I'm Kant
 
-<!--
-**kant-sompong/kant-sompong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend developer in progress — focused on building real, working systems, not just tutorials.
 
-Here are some ideas to get you started:
+## Currently
+- Learning backend development: Node.js, Express, APIs, databases
+- Working through freeCodeCamp's Back End certification
+- Practicing algorithmic problem-solving through USACO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+`JavaScript` `Node.js` `Express` `MongoDB`
+
+## Focus
+Shipping real projects, understanding systems deeply, and writing code that scales.
+
+## Find me
+- Portfolio: coming soon
