@@ -1,23 +1,24 @@
-# Hey, I'm Kant 👋
+<p align="center">
+  <img src="banner.png" alt="kant-sompong: building real, working systems" width="100%">
+</p>
 
-Developer in progress, building real, working systems, not just tutorials.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/GTK-4a86cf?style=for-the-badge&logo=gtk&logoColor=white" alt="GTK">
+  <img src="https://img.shields.io/badge/Qt-41cd52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
+  <img src="https://img.shields.io/badge/Void_Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=white" alt="Void Linux">
+</p>
 
+## Pinned
 
-## Currently
+<p align="center">
+  <a href="https://github.com/kant-sompong/Lumora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kant-sompong&repo=Lumora&theme=tokyonight&hide_border=true" alt="Lumora">
+  </a>
+</p>
 
-- Building [Lumora](https://github.com/kant-sompong/Lumora), a desktop game library and media app for Linux and Windows
-- Learning more Python, GTK and Qt
-
-## Toolbox
-
-![Python](https://img.shields.io/badge/Python-3776ab?style=flat-square&logo=python&logoColor=white)
-![GTK](https://img.shields.io/badge/GTK-4a86cf?style=flat-square&logo=gtk&logoColor=white)
-![Qt](https://img.shields.io/badge/Qt-41cd52?style=flat-square&logo=qt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white)
-![Void Linux](https://img.shields.io/badge/Void_Linux-478061?style=flat-square&logo=voidlinux&logoColor=white)
+Lumora is a desktop game library with a Movies & TV section. It has one shared Python core and two native frontends: GTK 3 on Linux and Qt 6 on Windows.
 
 ## Find me
 
-- GitHub: [@kant-sompong](https://github.com/kant-sompong)
-- Gmail [kantsmphngs53@gmail.com]
-- Portfolio: coming soon
+[GitHub](https://github.com/kant-sompong) · Portfolio coming soon
