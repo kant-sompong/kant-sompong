@@ -19,4 +19,5 @@ Developer in progress, building real, working systems, not just tutorials.
 ## Find me
 
 - GitHub: [@kant-sompong](https://github.com/kant-sompong)
+- Gmail [@kantsmphngs53](kantsmphngs53@gmail.com)
 - Portfolio: coming soon
