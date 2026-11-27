@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://github.com/kant-sompong/Lumora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kant-sompong&repo=Lumora&theme=tokyonight&hide_border=true" alt="Lumora">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kant-sompong&repo=Lumora&bg_color=0C0B12&title_color=B79BFF&text_color=D4C5FF&icon_color=9B6CFA&border_color=5B21B6&border_radius=14&hide_border=false" alt="Lumora">
   </a>
 </p>
 
