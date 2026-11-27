@@ -17,8 +17,6 @@
   </a>
 </p>
 
-Lumora is a desktop game library with a Movies & TV section. It has one shared Python core and two native frontends: GTK 3 on Linux and Qt 6 on Windows.
-
 ## Find me
 
 [GitHub](https://github.com/kant-sompong) · Portfolio coming soon
